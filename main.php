@@ -43,7 +43,7 @@ function helpAndInputDataFormatAndMeaning() {
     return $t;
 }
 class main {
-    const TEST = true;
+    const TEST = false;
     protected $browsertype;
     protected $title='Payment';
     public function execute() {
